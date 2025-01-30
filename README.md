@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lequangsang125/count.svg?"  />
+  <img src="https://img.shields.io/endpoint?url=https://countapi.xyz/hit/yourusername/yourrepo" alt="Visitors" />
 </div>
 
 ###
@@ -23,7 +23,8 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=lequangsang125&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lequangsang125&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lequangsang125&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
