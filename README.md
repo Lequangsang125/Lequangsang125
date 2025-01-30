@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/naruto-itachi-uchiha-rain-gif-desktop-wallpaper-preview.gif"  />
 </div>
