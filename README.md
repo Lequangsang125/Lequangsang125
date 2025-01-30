@@ -23,7 +23,7 @@
 <br clear="both">
 
 <div align="center">
- ![Streak Stats](https://streak-stats.demolab.com?user=lequangsang125&theme=rose_pine&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=lequangsang125&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lequangsang125&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
